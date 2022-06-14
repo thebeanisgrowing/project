@@ -48,9 +48,10 @@ nav {
     top: 51px;
 }
 li {
+    position: absolute;
     list-style-type: none;
     float: left;
-    margin: 0 0 0 40px;
+    left: 1334px;
     display: inline;
 }
 #nav_bar {
