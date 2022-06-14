@@ -49,8 +49,6 @@ nav {
 }
 li {
     list-style-type: none;
-    display: inline;
-    float: left;
 
     margin: 0 0 0 40px;
 }
@@ -147,7 +145,6 @@ a:visited {
 }
 #sub_title2 {
     position: absolute;
-    width: 291px;
     height: 82px;
     left: 360px;
     top: 1528px;
